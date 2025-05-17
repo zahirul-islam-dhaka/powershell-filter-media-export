@@ -1,6 +1,6 @@
 # 📂 PowerShell Filter Media Export
 
-This repository contains a PowerShell script that recursively scans directories for files with specific extensions (e.g., `.mp3`, `.amr`, `.m4a`, custom `.rasel`, `.zannat`, etc.) and exports their metadata to a CSV file.
+This repository contains a PowerShell script that recursively scans directories for files with specific extensions (e.g., `.mp3`, `.amr`, `.m4a`, custom `.rasel`, `.mehrin`, etc.) and exports their metadata to a CSV file.
 
 ---
 
